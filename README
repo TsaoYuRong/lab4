@@ -1,0 +1,9 @@
+A.
+average*&
+averageif
+B.
+1 4 //char 是1個byte,pointer 不管類別都是 4 byte 
+4 4 //int 是4個byte,pointer 不管類別都是 4 byte
+4 4 //float 是4個byte,pointer 不管類別都是 4 byte
+8 4 //double 是8個byte,pointer 不管類別都是 4 byte
+
